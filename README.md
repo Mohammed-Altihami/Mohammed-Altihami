@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there , I'm Mohammed Al-Tihami
 
-<!--
-**Mohammed-Altihami/Mohammed-Altihami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📖 About Me
+🎓 Information Technology Student  
+Focused on mobile and web application development with strong database management skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Mobile Development:** Flutter  
+- **Web Development:** PHP, HTML, CSS, JavaScript, React  
+- **Databases:** SQL, Oracle, PL/SQL, MySQL, Firebase  
+- **API Integration:** RESTful APIs  
+
+## 🎯 Interests
+- Building modern mobile applications (Android/iOS)  
+- Developing interactive web applications using React and PHP  
+- Designing user-friendly interfaces  
+- Database design and integration with applications  
+- API development and system integration  
+
+## 📂 Featured Projects
+- **SmartClinic 🏥** – A smart clinic management system for handling patient records, appointments, and medical services.  
+
+## 📫 Contact
+- GitHub: [Mohammed-Altihami](https://github.com/Mohammed-Altihami)  
+- Email: (altihamimohmmed@gmail.com)
